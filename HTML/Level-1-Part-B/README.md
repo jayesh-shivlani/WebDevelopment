@@ -11,6 +11,6 @@
 7. Comments in HTML
 8. Is HTML Case Sensitive ?
 9. [Pratice Question 2](Portfolio.html)
-10. Assignment Questions
+10. [Assignment Questions](AssignmentQuestions.html)
 
 ---
